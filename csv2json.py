@@ -10,7 +10,7 @@ def clean_dic(dic):
         print("error, déjà une classe")
         1/0
       dic["class"] = classe
-  if "class" not in dic:
+  if classe not in dic:
       print(dic["Titre"])
       print("error, pas de classe")
       1/0
