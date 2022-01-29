@@ -1,0 +1,505 @@
+Danakil-Sprache
+Abchasisch
+Aceh-Sprache
+Acholi-Sprache
+Adangme-Sprache
+Adygisch
+Hamitosemitische Sprachen (Andere)
+Afrihili
+Afrikaans
+Ainu-Sprache
+Akan-Sprache
+Akkadisch
+Albanisch
+Aleutisch
+Algonkin-Sprachen (Andere)
+Altaisch
+Amharisch
+Altenglisch
+Anga-Sprache
+Apachen-Sprachen
+Arabisch
+Aramäisch
+Aragonesisch
+Armenisch
+Arauka-Sprachen
+Arapaho-Sprache
+Kunstsprachen (Andere)
+Arawak-Sprachen
+Assamesisch
+Asturisch
+Athapaskische Sprachen (Andere)
+Australische Sprachen
+Awarisch
+Avestisch
+Awadhi
+Aymará-Sprache
+Aserbeidschanisch
+Banda-Sprachen (Ubangi-Sprachen)
+Bamileke-Sprachen
+Baschkirisch
+Belutschisch
+Bambara-Sprache
+Balinesisch
+Baskisch
+Basaa-Sprache
+Baltische Sprachen (Andere)
+Bedauye
+Weißrussisch
+Bemba-Sprache
+Bengali
+Berbersprachen (Andere)
+Bhojpuri
+Bihari (Andere)
+Bikol-Sprache
+Edo-Sprache
+Beach-la-mar
+Blackfoot-Sprache
+Bantusprachen (Andere)
+Tibetisch
+Bosnisch
+Braj-Bhakha
+Bretonisch
+Batak-Sprache
+Burjatisch
+Bugi-Sprache
+Bulgarisch
+Birmanisch
+Bilin-Sprache
+Caddo-Sprachen
+Indianersprachen, Zentralamerika (Andere)
+Karibische Sprachen
+Katalanisch
+Kaukasische Sprachen (Andere)
+Cebuano
+Keltische Sprachen (Andere)
+Tschechisch
+Chamorro-Sprache
+Chibcha-Sprachen
+Tschetschenisch
+Tschagataisch
+Chinesisch
+Trukesisch
+Tscheremissisch
+Chinook-Jargon
+Choctaw-Sprache
+Chipewyan-Sprache
+Cherokee-Sprache
+Kirchenslawisch
+Tschuwaschisch
+Cheyenne-Sprache
+Cham-Sprachen
+Koptisch
+Kornisch
+Korsisch
+Kreolisch-Englisch (Andere)
+Kreolisch-Französisch (Andere)
+Kreolisch-Portugiesisch (Andere)
+Cree-Sprache
+Krimtatarisch
+Kreolische Sprachen
+Kaschubisch
+Kuschitische Sprachen (Andere)
+Kymrisch
+Tschechisch
+Dakota-Sprache
+Dänisch
+Darginisch
+Dajakisch
+Delaware-Sprache
+Slave-Sprache
+Deutsch
+Dogrib-Sprache
+Dinka-Sprache
+Maledivisch
+Dogri
+Drawidische Sprachen (Andere)
+Niedersorbisch
+Duala-Sprachen
+Mittelniederländisch
+Niederländisch
+Dyula-Sprache
+Dzongkha
+Efik
+Ägyptisch
+Ekajuk
+Neugriechisch
+Elamisch
+Englisch
+Mittelenglisch
+Esperanto
+Estnisch
+Baskisch
+Ewe-Sprache
+Ewondo
+Pangwe-Sprache
+Färöisch
+Persisch
+Fante-Sprache
+Fidschi-Sprache
+Pilipino
+Finnisch
+Finnougrische Sprachen (Andere)
+Fon-Sprache
+Französisch
+Französisch
+Mittelfranzösisch
+Altfranzösisch
+Nordfriesisch
+Ostfriesisch
+Friesisch
+Ful
+Friulisch
+Ga-Sprache
+Gayo-Sprache
+Gbaya-Sprache
+Germanische Sprachen (Andere)
+Georgisch
+Deutsch
+Altäthiopisch
+Gilbertesisch
+Gälisch-Schottisch
+Irisch
+Galicisch
+Manx
+Mittelhochdeutsch
+Althochdeutsch
+Gondi-Sprache
+Gorontalesisch
+Gotisch
+Grebo-Sprache
+Griechisch
+Neugriechisch
+Guaraní-Sprache
+Schweizerdeutsch
+Gujarati-Sprache
+Kutchin-Sprache
+Haida-Sprache
+Haïtien (Haiti-Kreolisch)
+Haussa-Sprache
+Hawaiisch
+Hebräisch
+Herero-Sprache
+Hiligaynon-Sprache
+Himachali
+Hindi
+Hethitisch
+Miao-Sprachen
+Hiri-Motu
+Kroatisch
+Obersorbisch
+Ungarisch
+Hupa-Sprache
+Armenisch
+Iban-Sprache
+Ibo-Sprache
+Isländisch
+Ido
+Lalo-Sprache
+Ijo-Sprache
+Inuktitut
+Interlingue
+Ilokano-Sprache
+Interlingua
+Indoarische Sprachen (Andere)
+Bahasa Indonesia
+Indogermanische Sprachen (Andere)
+Inguschisch
+Inupik
+Iranische Sprachen (Andere)
+Irokesische Sprachen
+Isländisch
+Italienisch
+Javanisch
+Lojban
+Japanisch
+Jüdisch-Persisch
+Jüdisch-Arabisch
+Karakalpakisch
+Kabylisch
+Kachin-Sprache
+Grönländisch
+Kamba-Sprache
+Kannada
+Karenisch
+Kaschmiri
+Georgisch
+Kanuri-Sprache
+Kawi
+Kasachisch
+Kabardinisch
+Khasi-Sprache
+Khoisan-Sprachen (Andere)
+Kambodschanisch
+Sakisch
+Kikuyu-Sprache
+Rwanda-Sprache
+Kirgisisch
+Kimbundu-Sprache
+Konkani
+Komi-Sprache
+Kongo-Sprache
+Koreanisch
+Kosraeanisch
+Kpelle-Sprache
+Karatschaiisch-Balkarisch
+Karelisch
+Kru-Sprachen (Andere)
+Oraon-Sprache
+Kwanyama-Sprache
+Kumükisch
+Kurdisch
+Kutenai-Sprache
+Judenspanisch
+Lahnda
+Lamba-Sprache (Bantusprache)
+Laotisch
+Latein
+Lettisch
+Lesgisch
+Limburgisch
+Lingala
+Litauisch
+Mongo-Sprache
+Rotse-Sprache
+Luxemburgisch
+Lulua-Sprache
+Luba-Katanga-Sprache
+Ganda-Sprache
+Luiseño-Sprache
+Lunda-Sprache
+Luo-Sprache
+Lushai-Sprache
+Makedonisch
+Maduresisch
+Khotta
+Marschallesisch
+Maithili
+Makassarisch
+Malayalam
+Malinke-Sprache
+Maori-Sprache
+Austronesische Sprachen (Andere)
+Marathi
+Massai-Sprache
+Malaiisch
+Mokscha-Sprache
+Mandaresisch
+Mende-Sprache
+Mittelirisch
+Micmac-Sprache
+Minangkabau-Sprache
+Einzelne andere Sprachen
+Makedonisch
+Mon-Khmer-Sprachen (Andere)
+Malagassi-Sprache
+Maltesisch
+Mandschurisch
+Meithei-Sprache
+Manobo-Sprachen
+Mohawk-Sprache
+Mongolisch
+Mossi-Sprache
+Maori-Sprache
+Malaiisch
+Mehrere Sprachen
+Mundasprachen (Andere)
+Muskogisch
+Mirandesisch
+Marwari
+Birmanisch
+Maya-Sprachen
+Erza-Mordwinisch
+Nahuatl
+Indianersprachen, Nordamerika (Andere)
+Neapel / Mundart
+Nauruanisch
+Navajo-Sprache
+Ndebele-Sprache (Transvaal)
+Ndebele-Sprache (Simbabwe)
+Ndonga
+Niederdeutsch
+Nepali
+Newari
+Nias-Sprache
+Nigerkordofanische Sprachen (Andere)
+Niue-Sprache
+Niederländisch
+Nynorsk
+Bokmål
+Nogaisch
+Altnorwegisch
+Norwegisch
+N'Ko
+Pedi-Sprache
+Nubische Sprachen
+Alt-Newari
+Nyanja-Sprache
+Nyamwezi-Sprache
+Nkole-Sprache
+Nyoro-Sprache
+Nzima-Sprache
+Okzitanisch
+Ojibwa-Sprache
+Oriya-Sprache
+Galla-Sprache
+Osage-Sprache
+Ossetisch
+Osmanisch
+Otomangue-Sprachen
+Papuasprachen (Andere)
+Pangasinan-Sprache
+Mittelpersisch
+Pampanggan-Sprache
+Pandschabi-Sprache
+Papiamento
+Palau-Sprache
+Altpersisch
+Persisch
+Philippinisch-Austronesisch (Andere)
+Phönikisch
+Pali
+Polnisch
+Ponapeanisch
+Portugiesisch
+Prakrit
+Altokzitanisch
+Paschtu
+Quechua-Sprache
+Rajasthani
+Osterinsel-Sprache
+Rarotonganisch
+Romanische Sprachen (Andere)
+Rätoromanisch
+Romani (Sprache)
+Rumänisch
+Rumänisch
+Rundi-Sprache
+Aromunisch
+Russisch
+Sandawe-Sprache
+Sango-Sprache
+Jakutisch
+Indianersprachen, Südamerika (Andere)
+Salish-Sprache
+Samaritanisch
+Sanskrit
+Sasak
+Santali
+Sizilianisch
+Schottisch
+Selkupisch
+Semitische Sprachen (Andere)
+Altirisch
+Zeichensprachen
+Schan-Sprache
+Sidamo-Sprache
+Singhalesisch
+Sioux-Sprachen (Andere)
+Sinotibetische Sprachen (Andere)
+Slawische Sprachen (Andere)
+Slowakisch
+Slowakisch
+Slowenisch
+Südsaamisch
+Nordsaamisch
+Saamisch
+Lulesaamisch
+Inarisaamisch
+Samoanisch
+Skoltsaamisch
+Schona-Sprache
+Sindhi-Sprache
+Soninke-Sprache
+Sogdisch
+Somali
+Songhai-Sprache
+Süd-Sotho-Sprache
+Spanisch
+Albanisch
+Sardisch
+Sranantongo
+Serbisch
+Serer-Sprache
+Nilosaharanische Sprachen (Andere)
+Swasi-Sprache
+Sukuma-Sprache
+Sundanesisch
+Susu
+Sumerisch
+Swahili
+Schwedisch
+Syrisch
+Neuostaramäisch
+Tahitisch
+Thaisprachen (Andere)
+Tamil
+Tatarisch
+Telugu-Sprache
+Temne-Sprache
+Tereno-Sprache
+Tetum-Sprache
+Tadschikisch
+Tagalog
+Thailändisch
+Tibetisch
+Tigre-Sprache
+Tigrinja-Sprache
+Tiv-Sprache
+Tokelauanisch
+Klingonisch
+Tlingit-Sprache
+Tamaeq
+Tonga (Bantusprache, Sambia)
+Tongaisch
+Neumelanesisch
+Tsimshian-Sprache
+Tswana-Sprache
+Tsonga-Sprache
+Turkmenisch
+Tumbuka-Sprache
+Tupi-Sprache
+Türkisch
+Altaische Sprachen (Andere)
+Elliceanisch
+Twi-Sprache
+Tuwinisch
+Udmurtisch
+Ugaritisch
+Uigurisch
+Ukrainisch
+Mbundu-Sprache
+Nicht zu entscheiden
+Urdu
+Usbekisch
+Vai-Sprache
+Venda-Sprache
+Vietnamesisch
+Volapük
+Wotisch
+Wakash-Sprachen
+Walamo-Sprache
+Waray
+Washo-Sprache
+Kymrisch
+Sorbisch (Andere)
+Wallonisch
+Wolof-Sprache
+Kalmückisch
+Xhosa-Sprache
+Yao-Sprache (Bantusprache)
+Yapesisch
+Jiddisch
+Yoruba-Sprache
+Ypik-Sprachen
+Zapotekisch
+Bliss-Symbol
+Zenaga
+Standard-marokkanischen Tamazight
+Zhuang
+Chinesisch
+Zande-Sprachen
+Zulu-Sprache
+Zuñi-Sprache
+Kein linguistischer Inhalt
+Zazaki

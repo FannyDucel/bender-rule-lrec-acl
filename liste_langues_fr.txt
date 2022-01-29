@@ -1,0 +1,505 @@
+afar
+abkhaze
+aceh
+acoli
+adangme
+adyghé
+afro-asiatiques, langues
+afrihili
+afrikaans
+aïnou
+akan
+akkadien
+albanais
+aléoute
+algonquines, langues
+altai du Sud
+amharique
+anglo-saxon (ca.450-1100)
+angika
+apaches, langues
+arabe
+araméen d'empire (700-300 BCE)
+aragonais
+arménien
+mapudungun
+arapaho
+artificielles, langues
+arawak
+assamais
+asturien
+athapascanes, langues
+australiennes, langues
+avar
+avestique
+awadhi
+aymara
+azéri
+banda, langues
+bamiléké, langues
+bachkir
+baloutchi
+bambara
+balinais
+basque
+basa
+baltes, langues
+bedja
+biélorusse
+bemba
+bengali
+berbères, langues
+bhojpuri
+langues biharis
+bikol
+bini
+bichlamar
+blackfoot
+bantou, langues
+tibétain
+bosniaque
+braj
+breton
+batak, langues
+bouriate
+bugi
+bulgare
+birman
+blin
+caddo
+amérindiennes de l'Amérique centrale,  langues
+karib
+catalan
+caucasiennes, langues
+cebuano
+celtiques, langues
+tchèque
+chamorro
+chibcha
+tchétchène
+djaghataï
+chinois
+chuuk
+mari
+chinook, jargon
+choctaw
+chipewyan
+cherokee
+slavon d'église
+tchouvache
+cheyenne
+chames, langues
+copte
+cornique
+corse
+créoles et pidgins basés sur l'anglais
+créoles et pidgins basés sur le français
+créoles et pidgins basés sur le portugais
+cree
+tatar de Crimé
+créoles et pidgins
+kachoube
+couchitiques,  langues
+gallois
+tchèque
+dakota
+danois
+dargwa
+dayak, langues
+delaware
+esclave (athapascan)
+allemand
+dogrib
+dinka
+maldivien
+dogri
+dravidiennes,  langues
+bas-sorabe
+douala
+néerlandais moyen (ca. 1050-1350)
+néerlandais
+dioula
+dzongkha
+efik
+égyptien
+ekajuk
+grec moderne (après 1453)
+élamite
+anglais
+anglais moyen (1100-1500)
+espéranto
+estonien
+basque
+éwé
+éwondo
+fang
+féroïen
+persan
+fanti
+fidjien
+filipino
+finnois
+finno-ougriennes,  langues
+fon
+français
+français
+français moyen (1400-1600)
+français ancien (842-ca.1400)
+frison septentrional
+frison oriental
+frison occidental
+peul
+frioulan
+ga
+gayo
+gbaya
+germaniques, langues
+géorgien
+allemand
+guèze
+kiribati
+gaélique
+irlandais
+galicien
+manx
+allemand, moyen haut (ca. 1050-1500)
+allemand, vieux haut (ca. 750-1050)
+gond
+gorontalo
+gothique
+grebo
+grec ancien (jusqu'à 1453)
+grec moderne (après 1453)
+guarani
+suisse alémanique
+goudjrati
+gwich'in
+haida
+haïtien
+haoussa
+hawaïen
+hébreu
+herero
+hiligaynon
+langues himachalis
+hindi
+hittite
+hmong
+hiri motu
+croate
+haut-sorabe
+hongrois
+hupa
+arménien
+iban
+igbo
+islandais
+ido
+yi de Sichuan
+ijo, langues
+inuktitut
+interlingue
+ilocano
+interlingua (langue auxiliaire internationale)
+indo-aryennes, langues
+indonésien
+indo-européennes, langues
+ingouche
+inupiaq
+iraniennes, langues
+iroquoises, langues
+islandais
+italien
+javanais
+lojban
+japonais
+judéo-persan
+judéo-arabe
+karakalpak
+kabyle
+kachin
+groenlandais
+kamba
+kannada
+karen, langues
+kashmiri
+géorgien
+kanouri
+kawi
+kazakh
+kabardien
+khasi
+khoïsan, langues
+khmer central
+khotanais
+kikuyu
+rwanda
+kirghiz
+kimbundu
+konkani
+kom
+kongo
+coréen
+kosrae
+kpellé
+karatchai balkar
+carélien
+krou, langues
+kurukh
+kuanyama
+koumyk
+kurde
+kutenai
+judéo-espagnol
+lahnda
+lamba
+lao
+latin
+letton
+lezghien
+limbourgeois
+lingala
+lituanien
+mongo
+lozi
+luxembourgeois
+luba-lulua
+luba-katanga
+ganda
+luiseno
+lunda
+luo (Kenya et Tanzanie)
+lushai
+macédonien
+madourais
+magahi
+marshall
+maithili
+makassar
+malayalam
+mandingue
+maori
+austronésiennes, langues
+marathe
+massaï
+malais
+moksa
+mandar
+mendé
+irlandais moyen (900-1200)
+mi'kmaq
+minangkabau
+langues non codées
+macédonien
+môn-khmer, langues
+malgache
+maltais
+mandchou
+manipuri
+manobo, langues
+mohawk
+mongol
+moré
+maori
+malais
+multilingue
+mounda, langues
+muskogee
+mirandais
+marvari
+birman
+maya, langues
+erza
+nahuatl, langues
+nord-amérindiennes, langues
+napolitain
+nauruan
+navaho
+ndébélé du Sud
+ndébélé du Nord
+ndonga
+bas allemand
+népalais
+nepal bhasa
+nias
+nigéro-kordofaniennes, langues
+niué
+néerlandais
+norvégien nynorsk
+norvégien bokmål
+nogaï
+norrois, vieux
+norvégien
+n'ko
+pedi
+nubiennes, langues
+newari classique
+chichewa
+nyamwezi
+nyankolé
+nyoro
+nzema
+occitan (après 1500)
+ojibwa
+oriya
+galla
+osage
+ossète
+turc ottoman (1500-1928)
+otomi, langues
+papoues, langues
+pangasinan
+pahlavi
+pampangan
+pendjabi
+papiamento
+palau
+perse, vieux (ca. 600-400 av. J.-C.)
+persan
+philippines, langues
+phénicien
+pali
+polonais
+pohnpei
+portugais
+prâkrit, langues
+provençal ancien (jusqu'à 1500)
+pachto
+quechua
+rajasthani
+rapanui
+rarotonga
+romanes, langues
+romanche
+tsigane
+roumain
+roumain
+rundi
+aroumain
+russe
+sandawe
+sango
+iakoute
+sud-amérindiennes, langues
+salishennes, langues
+samaritain
+sanskrit
+sasak
+santal
+sicilien
+écossais
+selkoupe
+sémitiques, langues
+irlandais ancien (jusqu'à 900)
+langues des signes
+chan
+sidamo
+singhalais
+sioux, langues
+sino-tibétaines, langues
+slaves, langues
+slovaque
+slovaque
+slovène
+sami du Sud
+sami du Nord
+sames, langues
+sami de Lule
+sami d'Inari
+samoan
+sami skolt
+shona
+sindhi
+soninké
+sogdien
+somali
+songhai, langues
+sotho du Sud
+espagnol
+albanais
+sarde
+sranan tongo
+serbe
+sérère
+nilo-sahariennes, langues
+swati
+sukuma
+soundanais
+soussou
+sumérien
+swahili
+suédois
+syriaque classique
+syriaque
+tahitien
+tai, langues
+tamoul
+tatar
+télougou
+temne
+tereno
+tetum
+tadjik
+tagalog
+thaï
+tibétain
+tigré
+tigrigna
+tiv
+tokelau
+klingon
+tlingit
+tamacheq
+tonga (Nyasa)
+tongan (Îles Tonga)
+tok pisin
+tsimshian
+tswana
+tsonga
+turkmène
+tumbuka
+tupi, langues
+turc
+altaïques, langues
+tuvalu
+twi
+touva
+oudmourte
+ougaritique
+ouïgour
+ukrainien
+umbundu
+indéterminée
+ourdou
+ouszbek
+vaï
+venda
+vietnamien
+volapük
+vote
+wakashanes, langues
+wolaitta
+waray
+washo
+gallois
+sorabes, langues
+wallon
+wolof
+kalmouk
+xhosa
+yao
+yapois
+yiddish
+yoruba
+yupik, langues
+zapotèque
+symboles Bliss
+zenaga
+amazighe standard marocain
+zhuang
+chinois
+zandé, langues
+zoulou
+zuni
+pas de contenu linguistique
+zaza

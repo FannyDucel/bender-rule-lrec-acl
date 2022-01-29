@@ -1,0 +1,505 @@
+Afar
+Abkhazian
+Achinese
+Acoli
+Adangme
+Adyghe
+Afro-Asiatic languages
+Afrihili
+Afrikaans
+Ainu
+Akan
+Akkadian
+Albanian
+Aleut
+Algonquian languages
+Southern Altai
+Amharic
+English, Old (ca.450-1100)
+Angika
+Apache languages
+Arabic
+Official Aramaic (700-300 BCE)
+Aragonese
+Armenian
+Mapudungun
+Arapaho
+Artificial languages
+Arawak
+Assamese
+Asturian
+Athapascan languages
+Australian languages
+Avaric
+Avestan
+Awadhi
+Aymara
+Azerbaijani
+Banda languages
+Bamileke languages
+Bashkir
+Baluchi
+Bambara
+Balinese
+Basque
+Basa
+Baltic languages
+Beja
+Belarusian
+Bemba
+Bengali
+Berber languages
+Bhojpuri
+Bihari languages
+Bikol
+Bini
+Bislama
+Siksika
+Bantu languages
+Tibetan
+Bosnian
+Braj
+Breton
+Batak languages
+Buriat
+Buginese
+Bulgarian
+Burmese
+Blin
+Caddo
+Central American Indian languages
+Galibi Carib
+Catalan
+Caucasian languages
+Cebuano
+Celtic languages
+Czech
+Chamorro
+Chibcha
+Chechen
+Chagatai
+Chinese
+Chuukese
+Mari
+Chinook jargon
+Choctaw
+Chipewyan
+Cherokee
+Church Slavic
+Chuvash
+Cheyenne
+Chamic languages
+Coptic
+Cornish
+Corsican
+Creoles and pidgins, English based
+Creoles and pidgins, French-based
+Creoles and pidgins, Portuguese-based
+Cree
+Crimean Tatar
+Creoles and pidgins
+Kashubian
+Cushitic languages
+Welsh
+Czech
+Dakota
+Danish
+Dargwa
+Land Dayak languages
+Delaware
+Slave (Athapascan)
+German
+Dogrib
+Dinka
+Divehi
+Dogri
+Dravidian languages
+Lower Sorbian
+Duala
+Dutch, Middle (ca.1050-1350)
+Dutch
+Dyula
+Dzongkha
+Efik
+Egyptian (Ancient)
+Ekajuk
+Greek, Modern (1453-)
+Elamite
+English
+English, Middle (1100-1500)
+Esperanto
+Estonian
+Basque
+Ewe
+Ewondo
+Fang
+Faroese
+Persian
+Fanti
+Fijian
+Filipino
+Finnish
+Finno-Ugrian languages
+Fon
+French
+French
+French, Middle (ca.1400-1600)
+French, Old (842-ca.1400)
+Northern Frisian
+Eastern Frisian
+Western Frisian
+Fulah
+Friulian
+Ga
+Gayo
+Gbaya
+Germanic languages
+Georgian
+German
+Geez
+Gilbertese
+Gaelic
+Irish
+Galician
+Manx
+German, Middle High (ca.1050-1500)
+German, Old High (ca.750-1050)
+Gondi
+Gorontalo
+Gothic
+Grebo
+Greek, Ancient (to 1453)
+Greek, Modern (1453-)
+Guarani
+Swiss German
+Gujarati
+Gwich'in
+Haida
+Haitian
+Hausa
+Hawaiian
+Hebrew
+Herero
+Hiligaynon
+Himachali languages
+Hindi
+Hittite
+Hmong
+Hiri Motu
+Croatian
+Upper Sorbian
+Hungarian
+Hupa
+Armenian
+Iban
+Igbo
+Icelandic
+Ido
+Sichuan Yi
+Ijo languages
+Inuktitut
+Interlingue
+Iloko
+Interlingua (International Auxiliary Language Association)
+Indic languages
+Indonesian
+Indo-European languages
+Ingush
+Inupiaq
+Iranian languages
+Iroquoian languages
+Icelandic
+Italian
+Javanese
+Lojban
+Japanese
+Judeo-Persian
+Judeo-Arabic
+Kara-Kalpak
+Kabyle
+Kachin
+Kalaallisut
+Kamba
+Kannada
+Karen languages
+Kashmiri
+Georgian
+Kanuri
+Kawi
+Kazakh
+Kabardian
+Khasi
+Khoisan languages
+Central Khmer
+Khotanese
+Kikuyu
+Kinyarwanda
+Kirghiz
+Kimbundu
+Konkani
+Komi
+Kongo
+Korean
+Kosraean
+Kpelle
+Karachay-Balkar
+Karelian
+Kru languages
+Kurukh
+Kuanyama
+Kumyk
+Kurdish
+Kutenai
+Ladino
+Lahnda
+Lamba
+Lao
+Latin
+Latvian
+Lezghian
+Limburgan
+Lingala
+Lithuanian
+Mongo
+Lozi
+Luxembourgish
+Luba-Lulua
+Luba-Katanga
+Ganda
+Luiseno
+Lunda
+Luo (Kenya and Tanzania)
+Lushai
+Macedonian
+Madurese
+Magahi
+Marshallese
+Maithili
+Makasar
+Malayalam
+Mandingo
+Maori
+Austronesian languages
+Marathi
+Masai
+Malay
+Moksha
+Mandar
+Mende
+Irish, Middle (900-1200)
+Mi'kmaq
+Minangkabau
+Uncoded languages
+Macedonian
+Mon-Khmer languages
+Malagasy
+Maltese
+Manchu
+Manipuri
+Manobo languages
+Mohawk
+Mongolian
+Mossi
+Maori
+Malay
+Multiple languages
+Munda languages
+Creek
+Mirandese
+Marwari
+Burmese
+Mayan languages
+Erzya
+Nahuatl languages
+North American Indian languages
+Neapolitan
+Nauru
+Navajo
+Ndebele, South
+Ndebele, North
+Ndonga
+Low German
+Nepali
+Nepal Bhasa
+Nias
+Niger-Kordofanian languages
+Niuean
+Dutch
+Norwegian Nynorsk
+Bokmål, Norwegian
+Nogai
+Norse, Old
+Norwegian
+N'Ko
+Pedi
+Nubian languages
+Classical Newari
+Chichewa
+Nyamwezi
+Nyankole
+Nyoro
+Nzima
+Occitan (post 1500)
+Ojibwa
+Oriya
+Oromo
+Osage
+Ossetian
+Turkish, Ottoman (1500-1928)
+Otomian languages
+Papuan languages
+Pangasinan
+Pahlavi
+Pampanga
+Panjabi
+Papiamento
+Palauan
+Persian, Old (ca.600-400 B.C.)
+Persian
+Philippine languages
+Phoenician
+Pali
+Polish
+Pohnpeian
+Portuguese
+Prakrit languages
+Provençal, Old (to 1500)
+Pushto
+Quechua
+Rajasthani
+Rapanui
+Rarotongan
+Romance languages
+Romansh
+Romany
+Romanian
+Romanian
+Rundi
+Aromanian
+Russian
+Sandawe
+Sango
+Yakut
+South American Indian languages
+Salishan languages
+Samaritan Aramaic
+Sanskrit
+Sasak
+Santali
+Sicilian
+Scots
+Selkup
+Semitic languages
+Irish, Old (to 900)
+Sign Languages
+Shan
+Sidamo
+Sinhala
+Siouan languages
+Sino-Tibetan languages
+Slavic languages
+Slovak
+Slovak
+Slovenian
+Southern Sami
+Northern Sami
+Sami languages
+Lule Sami
+Inari Sami
+Samoan
+Skolt Sami
+Shona
+Sindhi
+Soninke
+Sogdian
+Somali
+Songhai languages
+Sotho, Southern
+Spanish
+Albanian
+Sardinian
+Sranan Tongo
+Serbian
+Serer
+Nilo-Saharan languages
+Swati
+Sukuma
+Sundanese
+Susu
+Sumerian
+Swahili
+Swedish
+Classical Syriac
+Syriac
+Tahitian
+Tai languages
+Tamil
+Tatar
+Telugu
+Timne
+Tereno
+Tetum
+Tajik
+Tagalog
+Thai
+Tibetan
+Tigre
+Tigrinya
+Tiv
+Tokelau
+Klingon
+Tlingit
+Tamashek
+Tonga (Nyasa)
+Tonga (Tonga Islands)
+Tok Pisin
+Tsimshian
+Tswana
+Tsonga
+Turkmen
+Tumbuka
+Tupi languages
+Turkish
+Altaic languages
+Tuvalu
+Twi
+Tuvinian
+Udmurt
+Ugaritic
+Uighur
+Ukrainian
+Umbundu
+Undetermined
+Urdu
+Uzbek
+Vai
+Venda
+Vietnamese
+Volapük
+Votic
+Wakashan languages
+Wolaitta
+Waray
+Washo
+Welsh
+Sorbian languages
+Walloon
+Wolof
+Kalmyk
+Xhosa
+Yao
+Yapese
+Yiddish
+Yoruba
+Yupik languages
+Zapotec
+Blissymbols
+Zenaga
+Standard Moroccan Tamazight
+Zhuang
+Chinese
+Zande languages
+Zulu
+Zuni
+No linguistic content
+Zaza
