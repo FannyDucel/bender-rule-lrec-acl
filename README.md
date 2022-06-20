@@ -6,13 +6,13 @@ This repository contains all data and code to reproduce the experiments presente
 
 **DATA**
 
-We propose all annotaed datasets both in JSON and in CSV format :
+We propose all annotaed datasets both in JSON and in CSV format (in the DATA/ directory):
 - Three annotated a the article level:
-  - 420-acl_annotation_bender  : 420 annotated articles from ACL (used in both LREC and TALN articles)
-  - 550-lrec_annotation_bender : 550 annotated articles from LREC (used in the LREC article)
-  - 127-taln_annotation_bender : 127 annotated articles from TALN (used in TALN article)
+  - DATA/420-acl_annotation_bender  : 420 annotated articles from ACL (used in both LREC and TALN articles)
+  - DATA/550-lrec_annotation_bender : 550 annotated articles from LREC (used in the LREC article)
+  - DATA/127-taln_annotation_bender : 127 annotated articles from TALN (used in TALN article)
 - One annotated at the sentence level :
-  - data_classif1_en420f.json  : ACL sentences used to train the sentence classifier mentioned in the articles
+  - DATA/data_classif1_en420f.json  : ACL sentences used to train the sentence classifier mentioned in the articles
 
 The data used for computing the inter-annotator agreement :
 - accord_interannotateur2.csv
@@ -26,12 +26,12 @@ The data used for computing the inter-annotator agreement :
 We provide all the resources used for the above mentioned papers.
 
 First the list of language names used :
-- liste_langues_en.txt (for LREC 2022)
-- liste_langues_fr.txt (for TALN 2022)
-- liste_langues_de.txt (not sued yet)
+- DATA/liste_langues_en.txt (for LREC 2022)
+- DATA/liste_langues_fr.txt (for TALN 2022)
+- DATA/liste_langues_de.txt (not sued yet)
 
 Second, the list of language resources listed in LREMAP at the time of the experiments :
-- corpus_lremap.json
+- DATA/corpus_lremap.json
 
 **MISC**
 - csv2json.py : transforms CSV files in JSON format

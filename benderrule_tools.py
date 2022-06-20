@@ -18,7 +18,7 @@ def read_file(path):
     return chaine
 
 def get_list_lang(lang="en"):
-    liste_langues_en_txt = read_file(f"liste_langues_{lang}.txt")
+    liste_langues_en_txt = read_file(f"DATA/liste_langues_{lang}.txt")
     liste_langues_en_txt = liste_langues_en_txt.replace("\n",",")
     liste_langues_en_txt = liste_langues_en_txt.replace("  ","")
     liste_langues_en_txt = liste_langues_en_txt.replace('"',"")
