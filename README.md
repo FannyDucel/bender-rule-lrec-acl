@@ -4,6 +4,11 @@ The objective of this project is to verify how the Bender Rule isapplied in NLP 
 
 This repository contains all data and code to reproduce the experiments presented in Ducel *et al.* LREC 2022 and TALN 2022 (see references below).
 
+
+**CODE**
+- run_classifiers.py : Python script for reproducing the LREc's paper experiments
+- classifiers_clean.ipynb : Jupyter Notebook for the LREC article (LREC VS ACL datasets) old version
+- classifiers_clean-fr.ipynb : Jupyter Notebook for the TALN article (TALN VS ACL datasets)
 **DATA**
 
 We propose all annotaed datasets both in JSON and in CSV format (in the DATA/ directory):
@@ -16,10 +21,6 @@ We propose all annotaed datasets both in JSON and in CSV format (in the DATA/ di
 
 The data used for computing the inter-annotator agreement :
 - accord_interannotateur2.csv
-
-**CODE**
-- classifiers_clean.ipynb : Jupyter Notebook for the LREC article (LREC VS ACL datasets)
-- classifiers_clean-fr.ipynb : Jupyter Notebook for the TALN article (TALN VS ACL datasets)
 
 **RESSOURCES**
 
