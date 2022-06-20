@@ -3,16 +3,17 @@ import sys
 import re
 def clean_dic(dic):
   dic["Titre"] = re.sub("XX", ", ", dic["Titre"])
-  for classe in ["Non-Aplicable","Appliquée","Déductible","Non-déductible"]:
+  for classe in ["Non-applicable","Appliquée","Déductible","Non-déductible"]:
     if dic[classe]!="":
       if "class"in dic:
         print(dic["Titre"])
-        print("error, déjà une classe")
+        print(dic["class"], classe)
+        print("erreur de parsing du csv, cet article a déjà une classe")
         1/0
       dic["class"] = classe
   if classe not in dic:
       print(dic["Titre"])
-      print("error, pas de classe")
+      print("erreur, ceta rticle n'a pas de classe")
       1/0
   return dic
 
@@ -54,7 +55,7 @@ if path==path_out:
   print("error with file names")
   1/0
 print("NB instances", len(dic_out))
-for class_name in ["Non-Aplicable","Appliquée","Déductible","Non-déductible"]:
+for class_name in ["Non-applicable","Appliquée","Déductible","Non-déductible"]:
   print(class_name, len([x for x in dic_out if dic_out[x]["class"]==class_name]))
 import json
 with open(path_out, "w") as w:

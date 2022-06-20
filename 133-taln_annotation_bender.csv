@@ -1,7 +1,4 @@
-,"tâche à effectuer : chacun doit indexer sur le framacalc 25 articles en français entre les années 2000 et 2020",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"Règle de Bender",,,,,,,,,,,,,,,,,,,,,,,,
-Qui,"URL Source",Année,Titre,"Langue de l'article",Non-applicable,Appliquée,Non-appliquée,,Commentaires,"Langue traitée",,,,,,,,,,,,,,,,,,,
-,,,,,,,"Déductible à partir des ressources langagières","Non-déductible à partir des ressources langagières",,fr,en,de,it,ja,pt,pl,he,cs,es,sv,la,el,akk,ca,ar,zh,zgh,ru,mg
+Qui,URL,Année,Titre,Non-applicable,Appliquée,Déductible,Non-déductible,,Commentaires,en,de,fr,ja,zh,pt,ar,ko,uk,es,pl,ru,cs,fi,th,syr,sv,nl,wbp,it,hr,hch,tr,ro,hi,ur,ha,he,vi
 KF,http://talnarchives.atala.org/TALN/TALN-2009/taln-2009-long-029.pdf,2009,"Vers une méthodologie d’annotation des entités nommées encorpus ?",fr,x,,,,,,,,,,,,,,,,,,,,,,,,
 YL,http://talnarchives.atala.org/TALN/TALN-2000/taln-2000-long-009.pdf,2000,"Vers un apprentissage en TALN dépendant du type de texte",fr,,,x,,,,x,,,,,,,,,,,,,,,,,,
 FD,http://talnarchives.atala.org/TALN/TALN-2000/taln-2000-long-015.pdf,2000,"Recherche d'informations dans un environnement distribué",fr,,x,,,,,x,,,,,,,,,,,,,,,,,,

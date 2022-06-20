@@ -1,6 +1,4 @@
-,,,,"Règle de Bender",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Qui,"URL  source",Année,Titre,Non-applicable,Appliquée,Non-appliquée,,Commentaires,"Langue traitée",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,Déductible,Non-déductible,,en,de,fr,ja,zh,pt,ar,ko,uk,es,pl,ru,cs,fi,th,syr,sv,nl,wbp,it,hr,hch,tr,ro,hi,ur,ha,he,vi
+Qui,URL,Année,Titre,Non-applicable,Appliquée,Déductible,Non-déductible,,Commentaires,en,de,fr,ja,zh,pt,ar,ko,uk,es,pl,ru,cs,fi,th,syr,sv,nl,wbp,it,hr,hch,tr,ro,hi,ur,ha,he,vi
 A0,https://aclanthology.org/P79-1002.pdf,1979,"Towards a Self-Extending Parser",,,,x,"présente un programme mais qui n'est utilisé que sur de l'anglais",x,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 A0,https://aclanthology.org/P79-1003.pdf,1979,"Word Expert Parsing",,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 A0,https://aclanthology.org/P79-1004.pdf,1979,"Schank/Riesbeck vs. Norman/Rumelhart: What's the Difference? ",x,,,,"compare 2 parsers (anglais)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
