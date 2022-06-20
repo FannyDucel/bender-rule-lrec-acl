@@ -1,10 +1,8 @@
 # bender-rule-lrec-acl
 
-This repository contains all data and code to reproduce the experiments presented in Ducel *et al.* LREC 2022 (see references below).
+The objective of this project is to verify how the Bender Rule isapplied in NLP conferences. The Bender Rule states that NLP researchers must mention explicitly the language they are working even if it is English (Bender 2011, 2019).
 
-*Do we Name the Languages we Study? The# BenderRule in LREC and ACL articles*, Fanny Ducel, Karën Fort, Gaël Lejeune and Yves Lepage, LREC 2022 [](https://hal.archives-ouvertes.fr/hal-03680561/)
-
-*Langues «par défaut»? Analyse contrastive et diachronique des langues non citées dans les articles de TALN et d'ACL*, Fanny Ducel, Karën Fort, Gaël Lejeune and Yves Lepage, TALN 2022 [](https://hal.inria.fr/hal-03680565) 
+This repository contains all data and code to reproduce the experiments presented in Ducel *et al.* LREC 2022 and TALN 2022 (see references below).
 
 **DATA**
 
@@ -12,7 +10,7 @@ We propose all annotaed datasets both in JSON and in CSV format :
 - Three annotated a the article level:
   - 420-acl_annotation_bender  : 420 annotated articles from ACL (used in both LREC and TALN articles)
   - 550-lrec_annotation_bender : 550 annotated articles from LREC (used in the LREC article)
- - 127-taln_annotation_bender : 127 annotated articles from TALN (used in TALN article)
+  - 127-taln_annotation_bender : 127 annotated articles from TALN (used in TALN article)
 - One annotated at the sentence level :
   - data_classif1_en420f.json  : ACL sentences used to train the sentence classifier mentioned in the articles
 
@@ -37,3 +35,14 @@ Second, the list of language resources listed in LREMAP at the time of the exper
 
 **MISC**
 - csv2json.py : transforms CSV files in JSON format
+
+**REFERENCES**
+
+*Do we Name the Languages we Study? The# BenderRule in LREC and ACL articles*, Fanny Ducel, Karën Fort, Gaël Lejeune and Yves Lepage, LREC 2022 [](https://hal.archives-ouvertes.fr/hal-03680561/)
+
+*Langues «par défaut»? Analyse contrastive et diachronique des langues non citées dans les articles de TALN et d'ACL*, Fanny Ducel, Karën Fort, Gaël Lejeune and Yves Lepage, TALN 2022 [](https://hal.inria.fr/hal-03680565) 
+
+*On achieving and evaluating language-independence in NLP*, Emily Bender, Linguistic Issues in Language Technology, 6(3), 2011
+
+*The #BenderRule: On naming the languages we study and why it matters*, Emily Beder, The Gradient, 2019
+
