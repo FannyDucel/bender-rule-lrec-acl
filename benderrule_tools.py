@@ -10,6 +10,7 @@ from langdetect import detect
 import glob
 import re
 import json
+import tqdm
 
 def read_file(path):
     with open(path, encoding="utf-8", errors="ignore") as f:
@@ -31,12 +32,12 @@ def br_appliquee(liste_chemins,liste_langues,langue="french"):
     Renvoie un dictionnaire de dictionnaires de forme {chemin: {langue_citée: nb_occurrence}}"""
     
     dico_br_app = {}
-    for chemin in liste_chemins:
+    for chemin in tqdm.tqdm(liste_chemins):
         chemin_propre = chemin.split("\\")[-1]
         chaine = read_file(chemin).lower()
         chaine_l_propre = re.sub(r'[^\w]',' ', chaine)
         liste_mots_tok = word_tokenize(chaine_l_propre, language=langue)
-        
+        #TODO: optimize with sets
         for mot in liste_mots_tok:
             for lg in liste_langues:
                 if mot == lg:
@@ -51,13 +52,12 @@ def chemin_corpus(chemin_dossier,langue="fr",taln_ou_acl="taln"):
     
     liste_chemins = []
 
-    for chemin in glob.glob(chemin_dossier):
+    for chemin in tqdm.tqdm(glob.glob(chemin_dossier)):
         chaine = read_file(chemin)
         if detect(chaine)==langue:
             ###POUR EXCLURE LES DOCUMENTS QUI NE SONT PAS VRAIMENT ARTICLES (souvent très courts)
             if taln_ou_acl=="taln":
                 tirets = chemin.split("-")
-                #if len(tirets)>1:
                 type_art = tirets[-2]
                 if type_art != "demo" and type_art !="invite":
                     liste_chemins.append(chemin)
@@ -69,7 +69,6 @@ def chemin_corpus(chemin_dossier,langue="fr",taln_ou_acl="taln"):
             if taln_ou_acl=="lrec":
                 if "the" in chaine:
                     liste_chemins.append(chemin)
-            
     return liste_chemins
 
 def chemins_annotes(fichier_csv, cas_bender,nbheader=2,taln_ou_acl="taln"):
@@ -107,7 +106,7 @@ def dico_br_appliquee_phrases(liste_chemins_annotes,liste_langues,chemins_annote
 #un où on envoie les phrases qui contiennent un nom de langue mais qui n'est pas la langue étudiée (annotée manuellement comme autre chose qu'appliquée)
     dico_phrases_nomlg = {"appliquée":[], "non-appliquée": []}
     stats = {}
-    for chemin in liste_chemins_annotes:
+    for chemin in tqdm.tqdm(liste_chemins_annotes):
             #nettoyer articles et chemins
         chemin_propre = chemin.split("/")[-1]
         chaine = read_file(chemin).lower()
@@ -143,14 +142,13 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import precision_recall_fscore_support
 
-def classifiers_report(textes_en):
+def classifiers_report(textes_en, classes_en):
     classifiers = []
     for pen in ["l1", "l2"]:
         classifiers.append(["LogReg_saga_pen=%s"%pen, 
-                            LogisticRegression(multi_class="auto", solver="saga", 
-                                               max_iter=500, class_weight="balanced",
-                                              penalty = pen)])
-
+                    LogisticRegression(multi_class="auto", solver="saga", 
+                    max_iter=500, class_weight="balanced",
+                    penalty = pen)])
 
     vectorizers=[
         ["Tfidf",TfidfVectorizer()],
@@ -172,8 +170,9 @@ def classifiers_report(textes_en):
         conf_matrix_en = confusion_matrix(y_test_en, pred_en)
         report_en = classification_report(y_test_en,pred_en)
         print(report_en)
+    return Train_V, clf_en
 
-def resultats_conf(data_annote, names_LRE):
+def resultats_conf(data_annote, names_LRE, liste_lang, Train_V, clf_en):
     stats_LRE = {}
     resultats = {}
     for conf_name, json_path in data_annote:
@@ -232,4 +231,4 @@ def resultats_conf(data_annote, names_LRE):
             resultats[conf_name]["Baseline"].append([classe, pred_baseline])
             resultats[conf_name]["Baseline_LRE"].append([classe, pred_LRE])
             resultats[conf_name]["Sentence_LRE"].append([classe, pred_sentence_LRE])
-
+    return resultats
