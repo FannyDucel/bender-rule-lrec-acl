@@ -9,9 +9,12 @@ This repository contains all data and code to reproduce the experiments presente
 **DATA**
 
 We propose all annotaed datasets both in JSON and in CSV format :
-- 420-acl_annotation_bender  : 420 annotated articles from ACL
-- 550-lrec_annotation_bender : 550 annotated articles from LREC
-- data_classif1_en420f.json  : ACL sentences used to train the sentence classifier mentioned in the articles
+- Three annotated a the article level:
+  - 420-acl_annotation_bender  : 420 annotated articles from ACL (used in both LREC and TALN articles)
+  - 550-lrec_annotation_bender : 550 annotated articles from LREC (used in the LREC article)
+ - 127-taln_annotation_bender : 127 annotated articles from TALN (used in TALN article)
+- One annotated at the sentence level :
+  - data_classif1_en420f.json  : ACL sentences used to train the sentence classifier mentioned in the articles
 
 The data used for computing the inter-annotator agreement :
 - accord_interannotateur2.csv
